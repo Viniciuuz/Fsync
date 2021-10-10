@@ -2,7 +2,7 @@
 
 CLI app for automating folder backup
 
-
+## Win x64 compiled binaries [here](https://github.com/Viniciuuz/Fsync/releases) 
 
 ## Usage
 

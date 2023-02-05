@@ -11,7 +11,7 @@ CLI app for automating folder backup
 PS C:\Go\Fsync> fsync config
 ```
 
-the *config* flag will open the "Select folder" for the source and the destination, then it will ask if the paths selected are correts, if you click yes, the path will be saved to "config.ini"
+the *config* flag will open the "Select folder" for the source and the destination, then it will ask if the paths selected are correct, if you click yes, the path will be saved to "config.ini"
 
 
 ---
